@@ -1,0 +1,12 @@
+C:\Users\Emirhan Aydın\source\repos\Server\bin\Debug\Server.exe.config
+C:\Users\Emirhan Aydın\source\repos\Server\bin\Debug\Server.exe
+C:\Users\Emirhan Aydın\source\repos\Server\bin\Debug\Server.pdb
+C:\Users\Emirhan Aydın\source\repos\Server\bin\Debug\SimpleTCP.dll
+C:\Users\Emirhan Aydın\source\repos\Server\obj\Debug\Server.csproj.AssemblyReference.cache
+C:\Users\Emirhan Aydın\source\repos\Server\obj\Debug\Server.Form1.resources
+C:\Users\Emirhan Aydın\source\repos\Server\obj\Debug\Server.Properties.Resources.resources
+C:\Users\Emirhan Aydın\source\repos\Server\obj\Debug\Server.csproj.GenerateResource.cache
+C:\Users\Emirhan Aydın\source\repos\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+C:\Users\Emirhan Aydın\source\repos\Server\obj\Debug\Server.csproj.CopyComplete
+C:\Users\Emirhan Aydın\source\repos\Server\obj\Debug\Server.exe
+C:\Users\Emirhan Aydın\source\repos\Server\obj\Debug\Server.pdb

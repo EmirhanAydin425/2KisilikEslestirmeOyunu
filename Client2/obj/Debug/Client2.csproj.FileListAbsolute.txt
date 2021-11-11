@@ -1,0 +1,12 @@
+C:\Users\Emirhan Aydın\source\repos\Client2\bin\Debug\Client2.exe.config
+C:\Users\Emirhan Aydın\source\repos\Client2\bin\Debug\Client2.exe
+C:\Users\Emirhan Aydın\source\repos\Client2\bin\Debug\Client2.pdb
+C:\Users\Emirhan Aydın\source\repos\Client2\bin\Debug\SimpleTCP.dll
+C:\Users\Emirhan Aydın\source\repos\Client2\obj\Debug\Client2.csproj.AssemblyReference.cache
+C:\Users\Emirhan Aydın\source\repos\Client2\obj\Debug\Client2.Form1.resources
+C:\Users\Emirhan Aydın\source\repos\Client2\obj\Debug\Client2.Properties.Resources.resources
+C:\Users\Emirhan Aydın\source\repos\Client2\obj\Debug\Client2.csproj.GenerateResource.cache
+C:\Users\Emirhan Aydın\source\repos\Client2\obj\Debug\Client2.csproj.CoreCompileInputs.cache
+C:\Users\Emirhan Aydın\source\repos\Client2\obj\Debug\Client2.csproj.CopyComplete
+C:\Users\Emirhan Aydın\source\repos\Client2\obj\Debug\Client2.exe
+C:\Users\Emirhan Aydın\source\repos\Client2\obj\Debug\Client2.pdb
